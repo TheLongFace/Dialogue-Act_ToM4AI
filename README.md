@@ -7,6 +7,8 @@ for natural-language multi-agent negotiation.
 ## Contents
 - `paper.pdf`: Accepted paper
 - `poster.pdf`: Conference poster
+- Note: The poster includes minor updates to the results compared to the paper.
+
 
 ## Venue
 Presented at the ToM Workshop (AAAI 2026).
