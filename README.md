@@ -12,3 +12,9 @@ for natural-language multi-agent negotiation.
 
 ## Venue
 Presented at the ToM Workshop (AAAI 2026).
+
+
+## Contact
+- Email: shimizu.takafumi.65x@st.kyoto-u.ac.jp
+- Lab: https://sites.google.com/view/takayuki-ito-laboratory-en/
+
