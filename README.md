@@ -2,16 +2,16 @@
 
 This repository contains the paper and poster for our work on
 a Dialogue-Act framework with explicit Theory of Mind (ToM)
-for natural-language multi-agent negotiation.
+for multi-agent LLM negotiation.
 
 ## Contents
 - `paper.pdf`: Accepted paper
 - `poster.pdf`: Conference poster
-- Note: The poster includes minor updates to the results compared to the paper.
+- Note: The poster includes minor updates to the method and results compared to the paper.
 
 
 ## Venue
-Presented at the ToM Workshop (AAAI 2026).
+Presented at the ToM4AI Workshop (AAAI 2026).
 
 
 ## Contact
